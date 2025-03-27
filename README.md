@@ -1,1 +1,4 @@
-# datascience-ecosystem
+# Data Science Ecosystem
+
+## Author
+Dimitar Kalapocev
